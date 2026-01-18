@@ -17,7 +17,7 @@ through:
 - exponential regression (for population prediction)
 - logistic regression (for urbanity classification)
 
-<img width="1650" height="5100" alt="image" src="https://github.com/user-attachments/assets/7d9112bf-2315-4cad-96db-645e91899a1c" />
-<img width="1650" height="5100" alt="image" src="https://github.com/user-attachments/assets/92261a14-53c0-4319-9b8d-ed19a9e715a3" />
-<img width="1650" height="5100" alt="image" src="https://github.com/user-attachments/assets/a40ebf65-bfed-4f95-b771-164f47670fef" />
-<img width="1650" height="5100" alt="image" src="https://github.com/user-attachments/assets/f7e41415-6aa3-4b3e-afee-86e91a49443b" />
+<img width="1650" alt="image" src="https://github.com/user-attachments/assets/7d9112bf-2315-4cad-96db-645e91899a1c" />
+<img width="1650" alt="image" src="https://github.com/user-attachments/assets/92261a14-53c0-4319-9b8d-ed19a9e715a3" />
+<img width="1650" alt="image" src="https://github.com/user-attachments/assets/a40ebf65-bfed-4f95-b771-164f47670fef" />
+
